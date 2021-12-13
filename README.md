@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @goglogige
-- 🌱 Learning JavaScript
 - 🛍️ Working on my first commercial project.
